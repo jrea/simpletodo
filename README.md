@@ -1,9 +1,10 @@
 Todo App
+========
 
-*Features*
+**Features**
 
-Add items
-Remove items
-Persistent storage
+- Add items
+- Remove items
+- Persistent storage
 
 
